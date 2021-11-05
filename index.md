@@ -1,5 +1,5 @@
 ---
-title: "Hello Everyone! I'm Learning GitHub Pages"
+title: "Home"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Homepage for my GitHub Pages.
