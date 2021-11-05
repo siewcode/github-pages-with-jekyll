@@ -3,15 +3,14 @@ title: "Add Content to Pages Site"
 date: 2021-11-05
 categories: jekyll github
 ---
-# Adding Content to Your GitHub Pages Site
-
+![monkey](./assets/happy-monkey.svg)
 Main types of content are pages and posts. Pages are for standalone content not associated with specific date
 
 ## Add a new page
 1. Go to root of your publishing source
 2. Create a new file for your page _PAGENAME.md_
 3. Add this to front matter. Replace _PAGETITLE_ with your page title. Replace _URLPATH_ with the path you want for your page url
-- If your base URL is `<username/github.io>` and your URLPATH is `/about/contact` then your page can be found at `<username/github.io>/about/contact`
+4. If your base URL is `<username/github.io>` and your URLPATH is `/about/contact` then your page can be found at `<username/github.io>/about/contact`
 ```yaml
 ---
 layout: page
